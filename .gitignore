@@ -4,4 +4,4 @@ bin/
 src/*.class
 #*.txt
 
-!README.md
+!README.txt
